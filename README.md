@@ -1,5 +1,7 @@
 # BudgetApp
 
+This project is based on [Budget App by Devstackr](https://github.com/Devstackr/budget-app-angular) and is used only for studying purposes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server
