@@ -2,9 +2,7 @@
   <h1>Budget Calculator</h1>
 </div>
 
-<section class="total-budget-section">
-  <h2 [ngClass]="{ 'red': totalBudget < 0, 'green': totalBudget > 0 }">{{ totalBudget }}</h2>
-</section>
+<app-total-component></app-total-component>
 
 <section class="add-item-section">
   <div class="add-item-container">
